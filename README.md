@@ -1,3 +1,12 @@
+# ⚠️ ARCHIVED REPOSITORY — NO LONGER IN DEVELOPMENT
+
+> [!WARNING]
+> **THIS REPOSITORY HAS BEEN OFFICIALLY ARCHIVED AND IS NO LONGER IN ACTIVE DEVELOPMENT ON GITHUB.**
+> 
+> All code in this repository is preserved for historical reference only. No further updates, issues, or pull requests will be accepted or maintained here.
+
+---
+
 # GoonCord [![Discord](https://img.shields.io/discord/1427396621905432699?style=social&logo=discord&label=ShiggyCord)](https://discord.shiggycord.dev)
 
 Bundle based on ShiggyCord, made just for fun
